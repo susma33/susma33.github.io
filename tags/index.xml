@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Susma</title>
-    <link>https://susma.github.io/tags/</link>
+    <link>https://susma33.github.io/tags/</link>
     <description>Recent content in Tags on Susma</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>amrit44404@proton.me (Susma Tandan)</managingEditor>
     <webMaster>amrit44404@proton.me (Susma Tandan)</webMaster>
     <copyright>© 2025 Susma Tandan</copyright>
-    <atom:link href="https://susma.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://susma33.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
